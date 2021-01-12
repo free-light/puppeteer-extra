@@ -41,6 +41,15 @@
   "resolutions": {
     "**/fsevents": "^2.1.2"
   },
-  "dependencies": {},
+  "dependencies": {
+    "nedb": "^1.8.0",
+    "nosql": "^6.1.0",
+    "puppeteer": "^5.5.0",
+    "puppeteer-extra": "^3.1.15",
+    "puppeteer-extra-plugin-adblocker": "^2.11.9",
+    "puppeteer-extra-plugin-click-and-wait": "^2.2.7",
+    "puppeteer-extra-plugin-stealth": "^2.6.5",
+    "puppeteer-extra-plugin-user-data-dir": "^2.2.7"
+  },
   "version": "0.0.0"
 }
